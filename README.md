@@ -1,4 +1,4 @@
-# 🚀 ISEC6000-SecureDevOps
+# 🚀 Secure DevOps for E-Commerce Platform (Saleor)
 
   
 ## 🌟 Project Description
